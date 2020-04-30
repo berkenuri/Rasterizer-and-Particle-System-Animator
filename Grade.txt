@@ -2,11 +2,18 @@
 -- Grade Information
 --------------------------------------------------------------------------------
 
-Total:
+Total: 100
 
- Base:
-Bonus:
+ Base: 100
+Bonus:   0
 
 --------------------------------------------------------------------------------
 -- Comments
 --------------------------------------------------------------------------------
+- Implemented features -
+  - Steep parallax mapping (8 stars)
+  - Explosion effect from geometry shader (8 stars)
+  - Skybox (4 stars)
+
+- Total stars - 20
+- 5 points per base star - 100
