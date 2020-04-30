@@ -1,2 +1,2 @@
-# cmsc335-computer-graphics-base
-Base assignment coverpage for CMSC Computer Graphics
+# cmsc335-computer-project-5
+Project 5 coverpage for CMSC Computer Graphics
