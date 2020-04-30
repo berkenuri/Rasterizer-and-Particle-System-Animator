@@ -1,0 +1,70 @@
+--------------------------------------------------------------------------------
+-- Base information
+--------------------------------------------------------------------------------
+
+      Name:
+Assignment:
+
+--------------------------------------------------------------------------------
+-- Known Bugs/Issues
+--------------------------------------------------------------------------------
+
+Please list all issues/bugs/missing features for this assignment.
+
+1.
+2.
+3.
+4.
+5.
+
+--------------------------------------------------------------------------------
+-- Extra Credit
+--------------------------------------------------------------------------------
+
+Please list all extra work completed for this assignment.
+
+1.
+2.
+3.
+4.
+5.
+
+--------------------------------------------------------------------------------
+-- Collaborators and Sources
+--------------------------------------------------------------------------------
+
+Please list all collaborators (other students and persons) and sources consulted
+regarding this assignment. This includes collaboration through online forums,
+e.g., if you asked a question on stackoverflow. Be sure to cite sources again in
+the assignment body, e.g., copy website link into code. Do not list the
+instructor as a collaborator -- this is assumed.
+
+ 1.
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7.
+ 8.
+ 9.
+10.
+
+All students are expected to be in accordance with the student honor code.
+http://studentdevelopment.richmond.edu/student-handbook/honor/
+the-honor-code.html. Note, cheating, lying, plagiarism, academic theft, etc. are
+not tolerated. If you know another student is breaking the code it is your
+responsibility to report them to the instructor and the university.
+
+--------------------------------------------------------------------------------
+-- Honors Statement
+--------------------------------------------------------------------------------
+
+I certify that I have listed above all the sources that I consulted regarding
+this assignment, and that I have not received or given any assistance that is
+contrary to the letter or the spirit of the collaboration guidelines for this
+assignment.
+
+Signature (Type full name):
+                      Date:
+
