@@ -2,8 +2,8 @@
 -- Base information
 --------------------------------------------------------------------------------
 
-      Name: Berke Nuri
-Assignment: 5
+      Name:
+Assignment:
 
 --------------------------------------------------------------------------------
 -- Known Bugs/Issues
@@ -65,6 +65,6 @@ this assignment, and that I have not received or given any assistance that is
 contrary to the letter or the spirit of the collaboration guidelines for this
 assignment.
 
-Signature (Type full name): Neval Berke Nuri
-                      Date:30th April, 2020
+Signature (Type full name):
+                      Date:
 

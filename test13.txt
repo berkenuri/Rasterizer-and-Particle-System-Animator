@@ -1,0 +1,47 @@
+Camera: perspective   0 0 0   1
+
+Sky: skybox.obj   Objects/milky-way.jpg
+
+Fog: disable
+
+Dissection: enable
+
+Global_Ambient: .2 .2 .2 1
+
+Directional_Light: -1000 9000 0   1 0 0 1
+
+Directional_Light: 1000 9000 0   0 1 1 1
+
+Object: Intergalactic_Spaceship.obj 0 50 -250   0 1 0 0   trs: 0 0 0 sc: 20 20 20 rot: 45 0 0
+
+Spot_Light: sphere.obj 50 75 -170  0 0 -1  1 1 1 0  .3 .001 .0001   12.5  13 sc: .1 .1 .1
+
+Spot_Light: sphere.obj -50 75 -170  0 0 -1  1 1 0 0   .3 .001 .0001   12.5  13 sc: .1 .1 .1
+
+Object: Mark42.obj -20 -4 -50   0 0 1 0   trs: 0 0 0 sc: 10 10 10 rot: 0 0 0
+
+Spot_Light: sphere.obj -30 10 -60  0 0 -1  .2 .8 .4 0   .3 .001 .0001   12.5  13 sc: .1 .1 .1
+
+Object: container.obj 20 0 -80   0 1 0 0   trs: 0 0 0 sc: 5 5 5 rot: 0 90 45
+
+Object: container.obj 10 10 -90   0 1 0 0   trs: 0 0 0 sc: 5 5 5 rot: 45 0 45
+
+Object: container.obj 20 50 -110   0 1 0 0   trs: 0 0 0 sc: 5 5 5 rot: 0 0 30
+
+Object: container.obj 25 20 -80   0 1 0 0   trs: 0 0 0 sc: 5 5 5 rot: 10 20 0
+
+Object: container.obj 20 30 -90   0 1 0 0   trs: 0 0 0 sc: 5 5 5 rot: 30 90 0
+
+Object: cube.obj -50 10 -120  0 1 0 0  trs: 0 0 0 sc: 35 35 35 rot: 0 0 0
+
+Object: greekvase.obj -50 0 -95  0 1 0 0  trs: 0 0 0 sc: .1 .1 .1 rot: 0 90 0
+
+Point_Light: cube.obj -50 0 -50   .5 0 .5 0   .6 .001 .0001 sc: 5 5 5
+
+Point_Light: cube.obj 35 0 -50   .8 .5 0 0   .6 .001 .0001 sc: 5 5 5
+
+Point_Light: cube.obj 5 35 -90   1 0 0 0  .6 .001 .0001 sc: 5 5 5
+
+Point_Light: cube.obj 22 25 -110  0 1 0 0   .6 .001 .0001 sc: 5 5 5
+
+Point_Light: cube.obj 50 20 -90  0 0 1 0   .6 .001 .0001 sc: 5 5 5

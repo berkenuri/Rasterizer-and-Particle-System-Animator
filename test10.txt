@@ -1,0 +1,8 @@
+Camera: perspective   0 0 0   1
+
+ANIMATION:
+ParticleProperties: .23 .48 .34 1   1 1 2 1   .5 1 0   5   5 3 1.5
+
+DirectedGenerator: 0 0 -25    1 0 0
+Repulsor: 10 -10 -25    5
+Gravity: On

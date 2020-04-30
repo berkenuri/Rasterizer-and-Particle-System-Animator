@@ -1,0 +1,9 @@
+Camera: perspective   0 0 0   1
+
+ANIMATION:
+ParticleProperties: .7 .7 0 1   0 1 0 1   .5 1 0   5   5 3 1.5
+
+DiscGenerator: 0 0 -25   10   0 1 0
+Rotator: -10 0 -25
+Rotator: 10 0 -25
+Wind: 0 0 -1

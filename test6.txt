@@ -1,0 +1,23 @@
+Camera:           perspective     0 0 0     1
+
+Light:            700 0 -300
+
+table01.obj       0 -50 -300      1 0 0 0       trs: 0 0 0        sc: 1 1 1          rot: 0 90 0
+
+MickeyMouse.obj   0 10 -370      .2 .7 0 0      trs: 0 -10 0        sc: .2 .2 .2       rot: 0 0 0
+
+MickeyMouse.obj   -60 0 -300      0 1 1 0       trs: 0 10 0       sc: .4 .3 .4       rot: 0 90 0
+
+sphere.obj        10 -12 -270        1 0 0.5 0     trs: 0 0 0        sc: .1 .1 .1       rot: 0 0 0
+
+Mark42.obj        60 -28 -320       0.2 0 0.7 0   trs: 0 0 0        sc: 20 20 20       rot: 0 270 0
+
+cube.obj          60 -35 -320     0 0.4 0.4 0   trs: 0 0 0        sc: 15 15 15       rot: 0 0 0
+
+palm_tree.obj     -75 0 -370      0.5 0.2 0 0   trs: 0 -45 0        sc: 10 15 10       rot: 0 0 0
+
+greekvase.obj     0 0 -300        .4 .9 .8 0      trs: 0 0 0        sc: .3 .3 .3            rot: 0 0 0
+
+animegirl.obj     55 -50 -280     .7 .2 .4 0     trs: 0 0 0         sc: 1 1 1.5       rot: 0 -90 0
+
+GreatHallModel.obj 100 110 325    .8 .1 .8 0    trs: 0 0 -100          sc: 40 40 40         rot: 0 0 0

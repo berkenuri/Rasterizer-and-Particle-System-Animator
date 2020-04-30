@@ -1,0 +1,7 @@
+Camera: perspective   0 0 0   1
+
+ANIMATION:
+ParticleProperties: 1 0 0 1   1 1 0 1   .5 .9 0   5   5 3 1.5
+PointGenerator: 0 0 -25
+DiscGenerator: -40 12 -50   10   1 0 0
+DirectedGenerator: 0 -10 -25   0 1 0

@@ -1,0 +1,13 @@
+RAYTRACER
+
+Camera: perspective   0 0 0     1
+
+Light:  -200 200 0
+
+Sphere: -100 50 -300      50        1 0.5 1 0   shiny
+
+Sphere: 100 100 -700      50        1 0 0 0     shiny
+
+Sphere: 150 25 -200       75        1 1 0 0     mat
+
+Plane:  0 -30 0           0 1 0     0 1 0 0     mat
